@@ -1,0 +1,14 @@
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.exe
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.deps.json
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.json
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.dev.json
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.pdb
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfoInputs.cache
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfo.cs
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csproj.CoreCompileInputs.cache
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.pdb
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.genruntimeconfig.cache
+C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csproj.AssemblyReference.cache
