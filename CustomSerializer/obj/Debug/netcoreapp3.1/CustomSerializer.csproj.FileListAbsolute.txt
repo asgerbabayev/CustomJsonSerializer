@@ -12,3 +12,17 @@ C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netc
 C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.pdb
 C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.genruntimeconfig.cache
 C:\Users\asger\Desktop\PypTasks\CustomSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.exe
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.deps.json
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.json
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.dev.json
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.pdb
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csproj.AssemblyReference.cache
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfoInputs.cache
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfo.cs
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csproj.CoreCompileInputs.cache
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.pdb
+C:\Users\asgar.pb\Desktop\CustomJsonSerializer\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.genruntimeconfig.cache

@@ -4,10 +4,8 @@ using System.Text;
 
 namespace CustomSerializer
 {
-    public class Employee
+    public class Category
     {
         public string Name { get; set; }
-        public string Surname { get; set; }
-        public double Salary { get; set; }
     }
 }

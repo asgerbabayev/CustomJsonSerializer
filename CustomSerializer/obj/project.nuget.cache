@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5I+nuytpTNWGwxH85iBbEGuy8IcET9HcvJNT2mu4bDNnFl2EybXr5M04Q//DS2SH+9WP9fX3vCqjtYBBtA3MyA==",
+  "dgSpecHash": "OfRWnjZzmkP0mHXYgnP8PfSdPwrgmK6xGJaGgKxD4FtTDgnr+RMNBFlH4TccI/PK8ShgfSRv4NAIw6Hlsbt5zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asger\\Desktop\\PypTasks\\CustomSerializer\\CustomSerializer\\CustomSerializer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\asgar.pb\\Desktop\\CustomJsonSerializer\\CustomSerializer\\CustomSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asgar.pb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
   "logs": []
 }

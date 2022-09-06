@@ -11,19 +11,22 @@ namespace CustomSerializer
     {
         static void Main(string[] args)
         {
-            List<Employee> list = new List<Employee>
+            List<Product> list = new List<Product>
             {
-                new Employee
+                new Product
                 {
-                    Name = "Asgar",
-                    Surname = "Babayev",
-                    Salary = 1200,
+                    Name = "ProductTest",
+                    Categories = new List<Category>
+                    {
+                        new Category
+                        {
+                          Name = "CategoryTest"
+                        }
+                    }
                 },
-                new Employee
+                new Product
                 {
                     Name = "Asgar",
-                    Surname = "Babayev",
-                    Salary = 1200
                 },
             };
 
