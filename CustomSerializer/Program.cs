@@ -16,18 +16,12 @@ namespace CustomSerializer
                 new Product
                 {
                     Name = "ProductTest",
-                    Categories = new List<Category>
-                    {
+                    Categories = new List<Category>{
                         new Category
                         {
-                          Name = "CategoryTest"
-                        }
-                    }
-                },
-                new Product
-                {
-                    Name = "Asgar",
-                },
+                           Name = "CategoryTest"
+                        } }
+                }
             };
 
             //Employee employee = new Employee

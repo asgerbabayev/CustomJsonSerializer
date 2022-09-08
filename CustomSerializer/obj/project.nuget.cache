@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OfRWnjZzmkP0mHXYgnP8PfSdPwrgmK6xGJaGgKxD4FtTDgnr+RMNBFlH4TccI/PK8ShgfSRv4NAIw6Hlsbt5zA==",
+  "dgSpecHash": "3zwveLy46zuPf2xsE8BIiBo60mlRljcPSU5cmPkz0oALzpEhwiLheTeBhfgC2Te2mCM4Z0e+fGWeZwkyF6CAaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asgar.pb\\Desktop\\CustomJsonSerializer\\CustomSerializer\\CustomSerializer.csproj",
+  "projectFilePath": "C:\\Users\\asgar.pb\\Desktop\\Tasks\\CustomJsonSerializer\\CustomSerializer\\CustomSerializer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asgar.pb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
   ],
